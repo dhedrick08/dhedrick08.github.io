@@ -1,0 +1,7 @@
+---
+title: "Politiwoops Case Analysis"
+---
+
+Politiwoops is an organization that uses Twitter's API to store all tweets by politicians, whether deleted or not. Presumably, they have an automataed process that downloads the later-deleted tweet when it is originally posted, but does not delete the tweet from their data storage when the politician deletes his/hers.
+
+The links above detail persepctives and ethical frameworks from three different stakeholders: a politician, the Twitter organization, and the Politiwoops organization.

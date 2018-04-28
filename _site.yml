@@ -1,0 +1,21 @@
+name: "my-website"
+navbar:
+  title: "Politiwoops Case Analysis"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Politician"
+      href: character1.html
+    - text: "Politiwoops"
+      href: politiwoops.html
+    - text: "Twitter Organization"
+      href: Twitter.html
+    - text: "Ethical Approaches"
+      href: EthicalApproachs.html
+      
+output:
+  html_document:
+  theme: cosmo
+  highlight: textmate
+
+output_dir: "."

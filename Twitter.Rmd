@@ -1,0 +1,7 @@
+---
+title: "Twitter"
+---
+
+The Twitter organization revoked Politiwoops' access to its API, citing a violation of its terms of service. They could use the rights approach to defend that position. The terms of service apply to everyone, including both developers like Politiwoops and users like the politicians. If agreed upon in advance, as it is in the terms of service, Twitter likely feels the duty to uphold the privacy rights it affords to its users.
+
+More information on the rights approach and other ethical approaches is available at the link at the top of this page.

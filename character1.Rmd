@@ -1,0 +1,7 @@
+---
+title: "Politician"
+---
+
+The politician has a clear bias for organizations like Politiwoops to respect the terms and conditions of Twitter by keeping deleted Tweets private, as intended. Their argument likely stems from the fairness approach. The fairness aproach would assert that if a non-politician individual has a right to privacy with respect to their deleted tweets, then a politician should have the same right to privacy. Therefore, they would likely believe that it would be unethical for Politiwoops to keep the data after it has been deleted from Twitter's platform.
+
+More information on the fairness approach is located in the links at the top of this page.
